@@ -20,4 +20,4 @@ What I did in this task:
 8. Finally printed the cleaned data and checked its new shape.
 
 9. Plotted a final boxplot to make sure the data looked clean and fine.
-10. 
+    
